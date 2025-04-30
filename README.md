@@ -36,7 +36,7 @@ Follow these steps to run the project on your development machine:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/wiktorbree/workshop_management_panel.git
    cd <repository-folder>
    ```
 
